@@ -10,9 +10,8 @@ So, i hope you enjoy!
 
 # How to download/play
 
-1. download the file (duh.)
-2. unzip the ".zip" file.
-3. use SideQuest to inject the .apk onto your Oculus Quest 1/2.
-4. play!
+1. download the .apk file (duh.)
+2. use SideQuest to inject the .apk onto your Oculus Quest 1/2.
+3. play!
 
 Sadly, the game is only available for the Quest 1 and 2. More versions for more headsets will be here soon!
